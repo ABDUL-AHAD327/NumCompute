@@ -1,0 +1,161 @@
+student_id,age,program,study_mode,study_hours_per_week,attendance_pct,quiz_score,assignment_score,exam_score,final_score,passed
+S138,23,Data Science,Hybrid,8.2,72.0,47.0,43.0,49.0,46.5,No
+S076,18,Computer Science,On-campus,12.5,85.5,62.3,70.1,100.0,83.5,Yes
+S038,25,Computer Science,On-campus,5.3,92.7,61.2,92.0,55.4,67.5,Yes
+S013,22,Computer Science,Hybrid,13.2,77.3,59.5,84.6,57.9,66.2,Yes
+S143,24,Computer Science,Online,7.8,66.0,46.0,42.0,40.0,42.8,No
+S064,18,Data Science,On-campus,9.6,89.3,78.6,56.1,,62.0,Yes
+S106,18,Computer Science,,15.6,100.0,65.9,80.4,,65.1,Yes
+S140,26,AI,On-campus,6.4,55.0,44.0,40.0,45.0,42.9,No
+S157,21,Information Technology,Hybrid,6.3,61.5,44.0,38.0,46.0,43.0,No
+S010,18,Computer Science,On-campus,1.0,70.9,63.8,65.1,60.1,62.3,Yes
+S078,,Data Science,On-campus,9.6,76.4,62.0,83.3,64.1,69.4,Yes
+S109,23,,On-campus,20.4,90.1,94.3,96.9,66.9,81.4,Yes
+S070,24,AI,Hybrid,14.5,,54.8,89.3,95.4,85.4,Yes
+S024,21,Data Science,On-campus,7.6,87.2,68.7,72.4,51.3,61.1,Yes
+S020,18,Computer Science,Hybrid,,80.6,66.9,60.9,54.8,59.1,Yes
+S025,26,Computer Science,Hybrid,16.3,87.9,94.2,78.3,81.2,82.9,Yes
+S136,25,Computer Science,On-campus,5.9,63.0,41.0,47.0,39.0,42.8,No
+S028,23,AI,On-campus,11.8,100.0,,83.9,78.3,80.6,Yes
+S132,24,Computer Science,Hybrid,6.8,58.0,45.0,39.0,43.0,42.1,No
+S122,22,Computer Science,Online,5.2,52.0,35.0,44.0,41.0,40.7,No
+S080,18,AI,On-campus,16.1,90.8,80.6,73.7,83.2,79.8,Yes
+S128,22,Data Science,On-campus,0.9,28.0,26.0,33.0,40.0,35.1,No
+S075,19,Computer Science,On-campus,8.3,87.9,49.5,64.6,76.8,67.7,Yes
+S061,25,Computer Science,Hybrid,10.6,75.8,62.2,77.7,61.4,66.4,Yes
+S009,27,Computer Science,Online,7.0,79.9,77.0,54.5,66.6,65.1,Yes
+S033,24,Information Technology,Hybrid,6.4,73.5,58.5,77.2,69.2,69.4,Yes
+S153,22,Information Technology,On-campus,5.9,57.0,42.0,48.0,45.0,45.3,No
+S101,22,Information Technology,Hybrid,14.0,83.0,70.1,84.5,73.2,76.0,Yes
+S133,20,Information Technology,On-campus,2.3,32.0,22.0,36.0,28.0,29.5,No
+S135,18,AI,Hybrid,1.6,29.0,25.0,31.0,34.0,30.1,No
+S051,24,Computer Science,Hybrid,3.9,100.0,66.0,80.3,65.4,70.0,Yes
+S004,21,Data Science,On-campus,,95.1,66.3,72.3,89.9,79.9,Yes
+S142,22,Information Technology,Hybrid,4.9,51.0,39.0,46.0,35.0,39.5,No
+S002,23,Computer Science,Hybrid,8.4,79.7,60.7,79.6,64.4,68.2,Yes
+S022,21,Data Science,Online,7.5,79.2,71.6,66.8,47.9,58.3,Yes
+S150,20,AI,On-campus,4.1,51.0,37.0,48.0,34.0,38.5,No
+S071,21,Computer Science,Hybrid,8.2,97.6,73.4,62.1,53.1,59.9,Yes
+S018,21,Information Technology,On-campus,13.1,79.1,70.1,64.1,81.0,73.8,Yes
+S094,21,Information Technology,Online,17.6,91.8,75.7,81.7,61.5,70.4,Yes
+S047,25,Information Technology,On-campus,16.8,72.9,87.3,67.4,64.3,69.8,Yes
+S008,21,Information Technology,On-campus,5.7,70.3,73.8,62.9,58.6,62.9,Yes
+S093,24,Computer Science,On-campus,8.6,86.5,84.8,62.3,71.5,71.4,Yes
+S104,26,AI,Hybrid,11.9,,65.0,54.0,54.5,56.5,Yes
+S144,18,Data Science,On-campus,3.7,44.0,32.0,38.0,30.0,33.1,No
+S091,20,AI,Hybrid,6.7,100.0,81.5,100.0,53.3,73.0,Yes
+S119,24,Computer Science,Hybrid,5.4,100.0,53.6,72.7,80.0,72.5,Yes
+S148,21,Data Science,Hybrid,2.6,33.0,22.0,35.0,29.0,29.2,No
+S017,18,Information Technology,Online,16.1,93.9,72.0,78.2,64.3,70.0,Yes
+S141,20,Data Science,Online,0.7,24.0,18.0,27.0,23.0,23.1,No
+S116,21,Data Science,On-campus,17.9,92.9,100.0,72.7,72.2,77.9,Yes
+S124,23,Information Technology,On-campus,6.1,61.0,48.0,42.0,47.0,45.7,No
+S088,21,Computer Science,On-campus,13.9,70.8,72.1,70.3,63.5,67.2,Yes
+S100,19,Computer Science,On-campus,17.3,77.1,72.0,87.5,65.4,73.3,Yes
+S089,,AI,Online,6.4,,87.3,71.0,57.7,67.6,Yes
+S107,24,Information Technology,On-campus,14.1,100.0,82.1,,76.6,84.0,Yes
+S030,23,AI,On-campus,15.7,72.7,83.0,73.6,55.8,66.6,Yes
+S111,27,AI,On-campus,5.8,76.9,57.5,76.5,80.2,74.6,Yes
+S137,21,Information Technology,Online,3.1,42.0,36.0,28.0,31.0,31.7,No
+S001,22,AI,On-campus,11.5,87.0,74.6,83.9,,65.5,Yes
+S065,24,Data Science,Hybrid,13.9,69.0,59.4,77.5,63.0,66.6,Yes
+S014,20,Data Science,On-campus,17.4,89.5,79.6,73.6,63.9,69.9,Yes
+S108,23,Information Technology,On-campus,16.0,76.2,55.6,83.0,53.9,63.0,Yes
+S034,22,Information Technology,Hybrid,13.6,99.4,78.5,82.8,89.7,85.4,Yes
+S057,22,Computer Science,On-campus,12.4,88.4,70.0,69.5,72.2,71.0,Yes
+S121,20,AI,On-campus,3.5,48.0,42.0,46.0,38.0,41.2,No
+S115,24,Data Science,On-campus,16.4,97.1,62.8,67.8,78.6,72.2,Yes
+S125,21,AI,Online,2.6,43.0,31.0,47.0,36.0,38.3,No
+S006,20,Information Technology,On-campus,3.7,87.9,54.7,71.6,86.1,75.4,Yes
+S120,23,Data Science,On-campus,13.7,80.8,80.8,89.1,64.5,75.2,Yes
+S016,19,Computer Science,Hybrid,4.5,84.9,52.3,77.9,51.8,59.7,Yes
+S053,21,Information Technology,Hybrid,,83.1,61.0,55.7,68.9,63.3,Yes
+S052,22,Information Technology,Hybrid,6.1,76.8,80.2,51.9,50.5,56.9,Yes
+S032,24,Information Technology,On-campus,20.7,76.1,68.2,67.8,65.4,66.6,Yes
+S042,22,Information Technology,Hybrid,16.5,94.1,80.9,90.2,55.3,70.9,Yes
+S130,24,AI,Online,2.1,41.3,33.0,28.0,42.0,36.0,No
+S131,19,AI,Online,4.2,46.0,34.0,41.0,37.0,37.8,No
+S129,18,Computer Science,Hybrid,4.7,49.0,47.0,40.0,34.0,38.4,No
+S063,24,Data Science,Hybrid,4.6,73.3,50.2,73.0,56.2,60.0,Yes
+S043,23,AI,On-campus,10.8,71.1,65.1,60.3,85.2,73.7,Yes
+S072,20,Computer Science,Hybrid,16.2,81.4,69.0,65.0,60.1,63.3,Yes
+S054,22,Data Science,On-campus,15.7,93.3,94.3,62.2,,79.2,Yes
+S049,18,Information Technology,On-campus,14.0,70.0,70.6,94.9,36.9,61.0,Yes
+S050,19,Computer Science,Online,11.1,83.3,57.8,52.6,95.0,74.8,Yes
+S086,21,Data Science,,8.9,87.2,70.1,62.0,73.5,69.4,Yes
+S155,20,Computer Science,Online,8.1,72.0,48.0,49.0,47.0,47.8,No
+S077,22,AI,On-campus,10.2,88.4,54.1,59.3,70.3,63.7,Yes
+S127,20,Information Technology,Online,7.3,67.0,39.0,48.0,45.0,44.7,No
+S015,19,Computer Science,On-campus,21.4,96.1,,79.8,58.1,64.8,Yes
+S023,27,Data Science,On-campus,3.7,72.2,78.8,,61.3,66.9,Yes
+S066,24,AI,Online,17.9,80.1,58.8,72.1,78.3,72.5,Yes
+S112,24,Information Technology,On-campus,12.7,75.1,64.6,65.7,44.2,54.7,Yes
+S152,18,Data Science,Online,1.5,28.0,18.0,26.0,24.0,23.3,No
+S036,,Computer Science,On-campus,8.9,96.4,,57.6,75.0,67.0,Yes
+S031,25,Data Science,On-campus,13.7,96.0,75.6,86.9,92.3,87.3,Yes
+S045,23,Computer Science,Online,14.6,74.0,96.9,86.8,57.2,74.0,Yes
+S019,19,AI,,7.2,76.0,65.2,66.8,78.8,72.5,Yes
+S095,25,Information Technology,Online,11.3,82.2,61.3,78.7,50.1,60.9,Yes
+S090,22,AI,On-campus,15.2,60.2,63.8,,50.6,52.8,Yes
+S123,19,Data Science,Hybrid,1.8,35.5,28.0,39.0,32.0,33.3,No
+S055,24,AI,Hybrid,1.0,82.5,83.1,45.8,52.0,56.4,Yes
+S021,21,AI,On-campus,11.5,77.9,,46.0,74.8,63.9,Yes
+S082,24,Computer Science,Online,11.7,87.3,78.3,91.6,27.2,56.7,Yes
+S073,21,Computer Science,Hybrid,14.4,80.7,51.7,65.3,72.2,66.0,Yes
+S035,27,Computer Science,Hybrid,13.0,95.5,66.7,76.9,57.4,65.1,Yes
+S096,25,Computer Science,Hybrid,11.2,71.5,58.3,58.3,76.7,67.5,Yes
+S098,27,Data Science,On-campus,14.7,66.2,42.6,78.5,75.4,69.8,Yes
+S114,24,Computer Science,Hybrid,16.6,83.2,68.6,86.5,56.2,67.8,Yes
+S160,24,Data Science,Hybrid,2.1,31.5,24.0,33.0,28.0,28.7,No
+S154,25,AI,Hybrid,3.8,46.5,34.0,31.0,40.0,35.8,No
+S126,25,Computer Science,Hybrid,4.0,55.0,44.0,35.0,29.0,33.8,No
+S074,25,AI,On-campus,18.6,81.0,100.0,,59.1,72.2,Yes
+S105,25,AI,Online,17.6,88.5,58.7,99.6,69.8,76.5,Yes
+S012,20,Computer Science,On-campus,13.3,94.6,88.5,95.3,65.3,79.0,Yes
+S146,19,AI,Online,3.2,42.0,31.0,44.0,38.0,37.7,No
+S151,26,Computer Science,Hybrid,7.2,69.5,45.0,43.0,49.0,46.4,No
+S084,22,Data Science,Hybrid,16.6,71.7,,55.8,60.5,58.1,Yes
+S029,21,AI,Hybrid,14.5,74.9,66.8,83.2,69.9,73.3,Yes
+S156,23,Data Science,On-campus,2.9,39.0,27.0,41.0,32.0,33.1,No
+S044,18,Computer Science,Hybrid,19.4,86.7,74.4,87.7,92.6,87.5,Yes
+S079,18,AI,Online,8.7,91.8,69.0,75.9,,81.3,Yes
+S058,23,AI,On-campus,9.2,87.5,47.8,74.0,68.2,65.9,Yes
+S005,18,AI,Hybrid,11.8,80.5,61.5,80.0,70.0,71.3,Yes
+S103,22,Data Science,Online,13.5,84.8,82.5,66.5,60.7,66.8,Yes
+S158,27,AI,Online,4.7,49.0,35.0,45.0,37.0,39.2,No
+S026,22,AI,On-campus,5.3,82.9,67.1,88.2,44.4,62.1,Yes
+S056,25,AI,Hybrid,20.5,91.7,81.2,86.2,76.0,80.1,Yes
+S041,25,Computer Science,Hybrid,,70.2,56.0,72.5,84.2,75.1,Yes
+S139,19,Computer Science,Online,2.8,37.0,29.0,34.0,26.0,29.8,No
+S039,23,Computer Science,Online,14.7,93.2,79.9,71.3,90.1,82.4,Yes
+S083,26,Information Technology,Online,14.5,86.8,58.4,,90.9,80.0,Yes
+S159,19,Computer Science,On-campus,7.6,66.0,49.0,42.0,48.0,46.9,No
+S110,20,Computer Science,On-campus,,90.9,70.5,55.2,70.7,66.0,Yes
+S048,21,Data Science,Online,16.9,90.7,78.4,78.1,86.7,82.5,Yes
+S027,23,AI,On-campus,15.8,75.6,64.2,81.9,72.1,73.5,Yes
+S040,26,Information Technology,Online,7.6,80.7,79.9,64.5,85.9,78.3,Yes
+S145,21,AI,Hybrid,5.3,60.0,43.0,37.0,44.0,41.2,No
+S062,20,Information Technology,On-campus,,80.4,54.7,75.1,,63.7,Yes
+S085,18,Computer Science,Online,13.6,100.0,53.3,69.9,65.1,64.2,Yes
+S117,24,,Hybrid,11.6,98.2,67.3,79.9,91.3,83.1,Yes
+S087,21,Computer Science,Online,10.5,74.7,,57.4,78.9,71.9,Yes
+S007,19,Computer Science,On-campus,22.7,89.2,74.8,60.5,84.3,75.3,Yes
+S134,22,Data Science,Online,7.1,69.0,48.0,45.0,46.0,46.3,No
+S102,21,Information Technology,On-campus,9.3,76.4,69.9,55.0,75.7,68.3,Yes
+S147,24,Computer Science,On-campus,5.4,58.5,46.0,39.0,43.0,42.5,No
+S118,24,AI,Hybrid,19.3,96.9,74.1,96.0,67.0,77.1,Yes
+S092,24,Data Science,On-campus,11.3,,78.3,78.5,52.7,65.6,Yes
+S060,18,,On-campus,9.7,87.7,64.7,65.7,88.1,76.7,Yes
+S003,23,Information Technology,On-campus,12.9,,100.0,74.4,83.8,84.2,Yes
+S081,22,AI,Hybrid,18.3,97.1,71.8,72.5,80.7,76.5,Yes
+S067,27,Data Science,On-campus,14.5,,67.0,60.1,60.4,61.6,Yes
+S059,26,Information Technology,On-campus,13.5,96.3,51.7,71.1,65.0,64.1,Yes
+S037,22,Data Science,Online,14.2,84.3,69.8,59.4,71.6,67.6,Yes
+S011,20,Data Science,Hybrid,7.7,70.9,52.8,72.3,55.4,60.0,Yes
+S097,24,AI,On-campus,17.4,100.0,92.8,74.6,68.6,75.2,Yes
+S046,20,Data Science,Hybrid,12.7,94.3,55.8,85.4,52.6,63.1,Yes
+S099,22,AI,Hybrid,11.7,85.1,75.1,77.0,70.2,73.2,Yes
+S113,29,Data Science,On-campus,,87.1,63.3,67.4,81.2,73.5,Yes
+S069,19,AI,On-campus,12.9,81.3,56.2,65.5,57.0,59.4,Yes
+S149,23,Information Technology,Online,6.8,64.0,49.0,46.0,42.0,44.3,No
+S068,25,Information Technology,Hybrid,11.2,78.9,47.9,100.0,55.8,67.5,Yes
