@@ -1,13 +1,4 @@
-"""Reproducible loop-versus-vectorized benchmark for NumCompute.
 
-Run from the project root with::
-
-    python benchmark/compare_vectorized.py
-
-The script validates result equivalence before timing, then writes the current
-machine's measurements to ``benchmark/results.md`` and replaces the marked
-benchmark section in the project ``README.md``.
-"""
 from __future__ import annotations
 
 import argparse
